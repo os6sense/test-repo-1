@@ -4,3 +4,4 @@ components:
     - repo_name: customer_configurations
       version: develop-test-20210101
 container: 'reportum:ruby27_nodejs14'
+foo
