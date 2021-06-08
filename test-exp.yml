@@ -1,6 +1,9 @@
+---
 components:
-    - repo_name: M3
-      version: v7.1.0
-    - repo_name: customer_configurations
-      version: develop-test-20210101
-container: 'reportum:ruby27_nodejs14'
+- repo_name: M3
+  version: v7.3.0
+- repo_name: customer_configurations
+  version: acc-tag
+container: reportum:ruby27_nodejs14
+
+# fred 2021-06-08T14:15:45+01:00
